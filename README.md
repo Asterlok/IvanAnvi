@@ -7,8 +7,8 @@
 - 🥅 Активно занимаюсь физическим спортом. В прошлом киберспортсмен в дисциплине FIFA
 - ⚡ Небольшой актёрский бэкграунд (киношкола, съёмки)
 - 🤹🏽 Победил на школе StandUp в финале
-- 🤹🏽 Веду заметки в Instagram: https://www.instagram.com/notes.anvi/ 
-- 🤹🏽 РУТ(МИИТ) Информатика и Вычислительная Техника
+- 🤹🏽 Веду заметки в [Instagram](https://www.instagram.com/notes.anvi/)
+- 🤹🏽 [РУТ(МИИТ)](https://www.miit.ru/) Информатика и Вычислительная Техника
 
 ### На связи
 
@@ -37,9 +37,12 @@
 - [Числа Фибоначчи](https://github.com/IvanAnvi/Algorithms/blob/master/Fibonacci.py)
 - [Факториал](https://github.com/IvanAnvi/Algorithms/blob/master/Factorial.py)
 - [НОД и НОК 2 чисел](https://github.com/IvanAnvi/Algorithms/blob/master/GCD%20and%20LCM.py)
-- [Сортировка. Timsort и Qucksort](https://github.com/IvanAnvi/Algorithms/blob/master/TimSort%20and%20QuickSort.py)
-- [Обзор VSCode Stories. Плагины Visual Studio Code](https://github.com/IvanAnvi/Algorithms/blob/master/TimSort%20and%20QuickSort.py)
+- [Алгоритм Дейкстры](https://github.com/IvanAnvi/Algorithms/blob/master/dijkstra's%20algorithm.py)
+- [Жадный Алгоритм](https://github.com/IvanAnvi/Algorithms/blob/master/greedy.py)
+- [Простые числа](https://github.com/IvanAnvi/Algorithms/blob/master/isPrime.py)
+- [Интеграл](https://github.com/IvanAnvi/Algorithms/blob/master/integral_calc.py)
 
+[Результаты программ](https://github.com/IvanAnvi/Algorithms/tree/master/Results)
 
 
 
