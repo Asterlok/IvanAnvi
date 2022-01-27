@@ -37,8 +37,8 @@
 | **Название** | **Описание** | **Результат** |
 | -------------------- | :--------------------- |:---------------------------:|
 | [Числа Фибоначчи](https://github.com/IvanAnvi/Algorithms/blob/master/Fibonacci.py)|На вход порядковое число в ряду Фибоначчи. На выходе число с этим номером.|[Здесь](https://github.com/IvanAnvi/Algorithms/blob/master/Results/fibonacci.png)|
-| [Факториал](https://github.com/IvanAnvi/Algorithms/blob/master/Factorial.py)|Рекурсивное вычисление с использованием принципа динамического программирования .|[Здесь](https://github.com/IvanAnvi/Algorithms/blob/master/Results/factorial.png)|
-| [НОД и НОК 2 чисел](https://github.com/IvanAnvi/Algorithms/blob/master/GCD%20and%20LCM.py)|На вход порядковое число в ряду Фибоначчи. На выходе число с этим номером.|[Здесь](https://github.com/IvanAnvi/Algorithms/blob/master/Results/GCD%20and%20LCM.png)|
+| [Факториал](https://github.com/IvanAnvi/Algorithms/blob/master/Factorial.py)|Рекурсивное вычисление с использованием принципа динамического программирования.|[Здесь](https://github.com/IvanAnvi/Algorithms/blob/master/Results/factorial.png)|
+| [НОД и НОК 2 чисел](https://github.com/IvanAnvi/Algorithms/blob/master/GCD%20and%20LCM.py)|Цикл с Евклидовым алгоритмом для нахождения наибольшего общего делителя.|[Здесь](https://github.com/IvanAnvi/Algorithms/blob/master/Results/GCD%20and%20LCM.png)|
 
 | [Факториал](https://github.com/IvanAnvi/Algorithms/blob/master/Factorial.py)|Рекурсивное вычисление с использованием принципа динамического программирования .|[Здесь](https://github.com/IvanAnvi/Algorithms/blob/master/Results/factorial.png)|
 | [Факториал](https://github.com/IvanAnvi/Algorithms/blob/master/Factorial.py)|Рекурсивное вычисление с использованием принципа динамического программирования .|[Здесь](https://github.com/IvanAnvi/Algorithms/blob/master/Results/factorial.png)|
