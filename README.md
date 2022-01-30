@@ -1,4 +1,4 @@
-### Aloha! Ivan, 23 
+### Aloha! 
 
 ![](https://komarev.com/ghpvc/?username=IvanAnvi)
 
