@@ -39,20 +39,11 @@
 | [Числа Фибоначчи](https://github.com/IvanAnvi/Algorithms/blob/master/Fibonacci.py)|На вход порядковое число в ряду Фибоначчи. На выходе число с этим номером.|[Здесь](https://github.com/IvanAnvi/Algorithms/blob/master/Results/fibonacci.png)|
 | [Факториал](https://github.com/IvanAnvi/Algorithms/blob/master/Factorial.py)|Рекурсивное вычисление с использованием принципа динамического программирования.|[Здесь](https://github.com/IvanAnvi/Algorithms/blob/master/Results/factorial.png)|
 | [НОД и НОК 2 чисел](https://github.com/IvanAnvi/Algorithms/blob/master/GCD%20and%20LCM.py)|Цикл с Евклидовым алгоритмом для нахождения наибольшего общего делителя.|[Здесь](https://github.com/IvanAnvi/Algorithms/blob/master/Results/GCD%20and%20LCM.png)|
+| [Простые числа](https://github.com/IvanAnvi/Algorithms/blob/master/isPrime.py)|Определение принадлежности числа к простому через малую теорему Ферма.|[Здесь](https://github.com/IvanAnvi/Algorithms/blob/master/Results/isPrime.png)|
+| [Алгоритм Дейкстры](https://github.com/IvanAnvi/Algorithms/blob/master/dijkstra's%20algorithm.py)|Вычисление кратчайшего расстояния во взвешенном графе. [Граф](https://github.com/IvanAnvi/Algorithms/blob/master/Results/dijkstra_Weighted%20graph.png).|[Здесь](https://github.com/IvanAnvi/Algorithms/blob/master/Results/dijkstras.png)|
+| [Жадный Алгоритм](https://github.com/IvanAnvi/Algorithms/blob/master/greedy.py)|Найти минимальный достаточный вариант для выполнения задачи. [Условие](https://github.com/IvanAnvi/Algorithms/blob/master/Results/greedy_stations_set.png).|[Здесь](https://github.com/IvanAnvi/Algorithms/blob/master/Results/greedy_algorithm.png)|
+| [Интеграл](https://github.com/IvanAnvi/Algorithms/blob/master/integral_calc.py)|Вычисление площади фигуры заданной функции и ограниченной пределами.|[Здесь](https://github.com/IvanAnvi/Algorithms/blob/master/Results/integral_square.png)|
 
-| [Факториал](https://github.com/IvanAnvi/Algorithms/blob/master/Factorial.py)|Рекурсивное вычисление с использованием принципа динамического программирования .|[Здесь](https://github.com/IvanAnvi/Algorithms/blob/master/Results/factorial.png)|
-| [Факториал](https://github.com/IvanAnvi/Algorithms/blob/master/Factorial.py)|Рекурсивное вычисление с использованием принципа динамического программирования .|[Здесь](https://github.com/IvanAnvi/Algorithms/blob/master/Results/factorial.png)|
-| [Факториал](https://github.com/IvanAnvi/Algorithms/blob/master/Factorial.py)|Рекурсивное вычисление с использованием принципа динамического программирования .|[Здесь](https://github.com/IvanAnvi/Algorithms/blob/master/Results/factorial.png)|
-| [Факториал](https://github.com/IvanAnvi/Algorithms/blob/master/Factorial.py)|Рекурсивное вычисление с использованием принципа динамического программирования .|[Здесь](https://github.com/IvanAnvi/Algorithms/blob/master/Results/factorial.png)|
-| [Факториал](https://github.com/IvanAnvi/Algorithms/blob/master/Factorial.py)|Рекурсивное вычисление с использованием принципа динамического программирования .|[Здесь](https://github.com/IvanAnvi/Algorithms/blob/master/Results/factorial.png)|
-
-- [НОД и НОК 2 чисел](https://github.com/IvanAnvi/Algorithms/blob/master/GCD%20and%20LCM.py)
-- [Алгоритм Дейкстры](https://github.com/IvanAnvi/Algorithms/blob/master/dijkstra's%20algorithm.py)
-- [Жадный Алгоритм](https://github.com/IvanAnvi/Algorithms/blob/master/greedy.py)
-- [Простые числа](https://github.com/IvanAnvi/Algorithms/blob/master/isPrime.py)
-- [Интеграл](https://github.com/IvanAnvi/Algorithms/blob/master/integral_calc.py)
-
-[Результаты программ](https://github.com/IvanAnvi/Algorithms/tree/master/Results)
 
 
 
