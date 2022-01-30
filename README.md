@@ -14,9 +14,9 @@
 
 
 [<img align="left" alt="IvanAnvi | Instagram" width="35px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />][instagram]
-[<img align="left" alt="IvanAnvi | VK" width="35px" src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494517.png?token=exp=1643315221~hmac=46ef15366ecd91b53b6645f4bbcc45ce" />][vk]
+[<img align="left" alt="IvanAnvi | VK" width="35px" src="https://pngicon.ru/file/uploads/vk.png" />][vk]
 [<img align="left" alt="IvanAnvi | TG" width="35px" src="https://mskc.pro/wp-content/uploads/Telegram.svg" />][TG]
-[<img align="left" alt="IvanAnvi | GM" width="35px" src="https://cdn-icons.flaticon.com/png/512/2875/premium/2875435.png?token=exp=1643316142~hmac=7c080415bf186c65d59d2aa0b7150139" />][GM]
+[<img align="left" alt="IvanAnvi | GM" width="35px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />][GM]
 
 <br />
 
