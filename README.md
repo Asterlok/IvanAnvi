@@ -28,6 +28,10 @@
 <img align="left" alt="Excel" width="35px" src="https://cdn-icons-png.flaticon.com/512/732/732220.png" />
 <img align="left" alt="AdobeIllustrator" width="35px" src="https://cdn-icons-png.flaticon.com/512/5968/5968472.png" />
 
+<br />
+<br />
+
+### [Сертификаты и Дипломы](https://github.com/IvanAnvi/wastepaper)
 
 <br />
 <br />
