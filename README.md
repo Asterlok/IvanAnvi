@@ -34,7 +34,7 @@
 ### [Сертификаты и Дипломы](https://github.com/IvanAnvi/wastepaper)
 
 <br />
-<br />
+
 
 ### Алгоритмы:
 
