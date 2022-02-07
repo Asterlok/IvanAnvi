@@ -49,7 +49,7 @@
 | [Простые числа](https://github.com/IvanAnvi/Algorithms/blob/master/isPrime.py)|Определение принадлежности числа к простому через малую теорему Ферма.|[Здесь](https://github.com/IvanAnvi/Algorithms/blob/master/Results/isPrime.png)|
 | [Алгоритм Дейкстры](https://github.com/IvanAnvi/Algorithms/blob/master/dijkstra's%20algorithm.py)|Вычисление кратчайшего расстояния во взвешенном графе. [Граф](https://github.com/IvanAnvi/Algorithms/blob/master/Results/dijkstra_Weighted%20graph.png).|[Здесь](https://github.com/IvanAnvi/Algorithms/blob/master/Results/dijkstras.png)|
 | [Жадный Алгоритм](https://github.com/IvanAnvi/Algorithms/blob/master/greedy.py)|Найти минимальный достаточный вариант для выполнения задачи. [Условие](https://github.com/IvanAnvi/Algorithms/blob/master/Results/greedy_stations_set.png).|[Здесь](https://github.com/IvanAnvi/Algorithms/blob/master/Results/greedy_algorithm.png)|
-| [Интеграл](https://github.com/IvanAnvi/Algorithms/blob/master/integral_calc.py)|Вычисление площади фигуры заданной функции и ограниченной пределами.|[Здесь](https://github.com/IvanAnvi/Algorithms/blob/master/Results/integral_square.png)|
+| [Интеграл](https://github.com/IvanAnvi/Algorithms/blob/master/integral_calc.py)|Вычисление площади фигуры заданной функции и ограниченной пределами.|[Здесь](https://github.com/IvanAnvi/Algorithms/blob/master/Results/square.png)|
 
 
 
