@@ -51,8 +51,8 @@
 | [Алгоритм Дейкстры](https://github.com/IvanAnvi/Algorithms/blob/master/dijkstra's%20algorithm.py)|Вычисление кратчайшего расстояния во взвешенном графе. [Граф](https://github.com/IvanAnvi/Algorithms/blob/master/Results/dijkstra_Weighted%20graph.png).|[Здесь](https://github.com/IvanAnvi/Algorithms/blob/master/Results/dijkstras.png)|
 | [Жадный Алгоритм](https://github.com/IvanAnvi/Algorithms/blob/master/greedy.py)|Найти минимальный достаточный вариант для выполнения задачи. [Условие](https://github.com/IvanAnvi/Algorithms/blob/master/Results/greedy_stations_set.png).|[Здесь](https://github.com/IvanAnvi/Algorithms/blob/master/Results/greedy_algorithm.png)|
 | [Интеграл](https://github.com/IvanAnvi/Algorithms/blob/master/integral_calc.py)|Вычисление площади фигуры заданной функции и ограниченной пределами.|[Здесь](https://github.com/IvanAnvi/Algorithms/blob/master/Results/square.png)|
-
-
+| [Трёхмерный массив](https://github.com/IvanAnvi/Algorithms/blob/master/integral_calc.py)|Подъезд - этаж - квартира. Вставка, удаление, поиск, расширение.|[Код](https://github.com/IvanAnvi/Algorithms/blob/master/three_dimensional_array.py) и [вывод](https://github.com/IvanAnvi/Algorithms/blob/master/Results/tri_dim.png)|
+| [АВЛ-дерево](https://github.com/IvanAnvi/Algorithms/blob/master/avl_tree.py)|Особенностью АВЛ-дерева является то, что оно является сбалансированным: для любого узла дерева высота его правого поддерева отличается от высоты левого поддерева не более чем на единицу. Реализованы также вставка и удаление элементов.|[Код](https://github.com/IvanAnvi/Algorithms/blob/master/avl_tree.py) и [вывод](https://github.com/IvanAnvi/Algorithms/blob/master/Results/AVL_tree.png)|
 
 
 [instagram]: https://www.instagram.com/acidumdisoxirybonucleicum/
